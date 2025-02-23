@@ -1,0 +1,20 @@
+1. ¿Cómo se inicializa un repositorio local?
+R/ se usa git init
+
+2. ¿Cómo hago para que un directorio deje de ser controlado por git?
+R/Eliminar la carpeta .git con: rm -rf .git
+
+3. Si agrego un archivo a un directorio que ya está siendo controlado por git, ¿está siendo controlado por git?
+R/ No, hasta que se agregue con git add.
+
+4. ¿Qué comando se utiliza para agregar un archivo al repositorio local?
+R/ git add <archivo>
+
+5. ¿Cómo determino qué archivos fueron modificados?
+R/ git status o git diff
+
+6. ¿Qué comando se utiliza para hacer un commit?
+R/ git commit -m "Mensaje del commit"
+
+7. ¿Qué es un commit?
+R/ Un commit es un punto de control en el historial del proyecto que guarda los cambios hechos hasta el momento.
