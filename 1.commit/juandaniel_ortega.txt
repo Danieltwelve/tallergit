@@ -176,3 +176,5 @@ Date:   Sun Feb 23 17:32:09 2025 -0500
 
  Explicacion: se muestra un resumen de los archivos modificados y el número de líneas cambiadas.
 
+
+termino
